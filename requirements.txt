@@ -1,2 +1,5 @@
 nltk
 pydub
+Pillow
+opencv-python
+pytesseract
