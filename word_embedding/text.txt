@@ -1,0 +1,10 @@
+I hope it’s pretty clear from the above examples that the
+semantic similarity of words can vary greatly depending on 
+the textual context. In this case, we’re comparing a wide
+selection of text from the brown corpus with movie reviews 
+and financial news from the context. In this case, we’re comparing a wide
+selection of text from the brown corpus with movie reviews 
+and financial news from the context. In this case, we’re comparing a wide
+selection of text from the brown corpus with movie reviews 
+and financial news from the selection selection 
+
