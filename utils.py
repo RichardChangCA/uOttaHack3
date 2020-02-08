@@ -3,7 +3,7 @@ from os.path import exists
 
 from pydub import AudioSegment
 
-r_mp3 = compile(r"(?P<file_name>.+).mp3")
+r_mp3 = compile(r"(?P<file_name>.+)+.mp3")
 
 
 def convert_mp3_to_wav(file_name):
